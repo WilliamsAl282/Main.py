@@ -10,7 +10,10 @@ print(message)
 
 #  Exercise 2 - 5 (Famous Quote)
 
-[write your code here]
+first_name = 'Alex'
+last_name = 'williams'
+name = 'alex williams'
+print(name.title())
 
 # Exercise 2 - 6 (Famous Quote 2)
 
